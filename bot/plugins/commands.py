@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🔰CLICK HERE🔰', url="https://t.me/MOVIESCLUB_OTT_UPDATES"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/CrazyBotsz'),
+        InlineKeyboardButton('Developers', url='https://t.me/althaf_mr'),
         InlineKeyboardButton('Source Code 🧾', url ='https://youtu.be/uAHl5jvnrhk')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Mo_tech_group')
+        InlineKeyboardButton('🎭Support Group🎭', url='https://t.me/MOVIES_CLUB_GROUP_2')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
